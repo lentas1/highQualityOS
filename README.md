@@ -6,4 +6,4 @@ Best parts:
 -Created using turbowarp and turbowarp packager (packager converts sb3 to html)
 <br>
 <br>                              DONT SELL THIS PROJECT!
-Anything else is allowed except  ![image](https://github.com/lentas1/highQualityOS/assets/88710364/ae312b2a-9ddb-4069-aaca-a86641f0a8f7)
+Anything else is allowed except selling this, even if you sell this for 1 cent, but sharing without paying is ok.
